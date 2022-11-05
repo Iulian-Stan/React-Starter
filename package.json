@@ -1,7 +1,7 @@
 {
-  "name": "react-app",
+  "name": "react-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "React starter application",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
@@ -10,7 +10,7 @@
     "lint": "eslint {src,tests}/**/*.ts[x]"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
